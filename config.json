@@ -1,0 +1,8 @@
+{
+  "dataPath": "/Users/sagarl/projects/spark-essentials-pyspark/src/resources/data",
+  "outputPath": "/Users/sagarl/projects/spark-essentials-pyspark/src/resources/output",
+  "driver": "org.postgresql.Driver",
+  "url": "jdbc:postgresql://localhost:5432/rtjvm",
+  "user": "docker",
+  "password": "docker"
+}
